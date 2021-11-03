@@ -1,2 +1,2 @@
 # gitskills
-git create a new branch is quikly.
+git create a new branch is quikly & simple.
